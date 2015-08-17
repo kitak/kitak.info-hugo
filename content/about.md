@@ -1,7 +1,7 @@
 # About
 
 My name is **Keisuke KITA**, Software Engineer from Shibuya, Tokyo, Japan.  
-My main focus in web frontends with high-performance and clean code.  
+My main focus is web frontends with high-performance and clean code.  
 Also I'm interested in middleware/backend development in Go and Lua.
 
 ## Software - self-developed products -
