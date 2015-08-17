@@ -2,7 +2,7 @@
 
 ## Educations
 
-- National Institute of Technology, Ishikawa Colloge
+- National Institute of Technology, Ishikawa Collage
   - Apr. 2006 - Mar. 2011
       * Department of Electronics and Information Engineering
   - Apr. 2011 - Mar. 2013
