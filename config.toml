@@ -1,3 +1,6 @@
-baseurl = "http://kitak.info/"
+baseUrl = "http://kitak.info/"
 languageCode = "ja"
 title = "kitak.info"
+config = "config.toml"
+disableRSS = true
+disableSitemap = true

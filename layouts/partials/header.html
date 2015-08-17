@@ -4,11 +4,7 @@
     <head>
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    {{ else }}
-        <meta property="og:type" content="website" />
-    {{ end }}
-
-        <title>{{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}</title>
+        <title>{{ .Site.Title }}</title>
 
     {{ if .Description }}
         <meta name="description" content="{{ .Description }}" />
