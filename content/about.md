@@ -27,3 +27,16 @@ Also I'm interested in middleware/backend development in Go and Lua.
 
 - Kanazawa.rb meetup #6
   * [Sqaleにアプリをデプロイしたよー](http://www.slideshare.net/KeisukeKita/sqale)
+
+## Others
+
+- GitHub
+  * [https://github.com/kitak](https://github.com/kitak)
+- Speaker Deck
+  * [https://speakerdeck.com/kitak](https://speakerdeck.com/kitak)
+- SlideShare
+  * [http://www.slideshare.net/KeisukeKita](http://www.slideshare.net/KeisukeKita)
+- Twitter
+  * [https://twitter.com/kitak](https://twitter.com/kitak)
+- Facebook
+  * [https://www.facebook.com/kei.kita2501](https://www.facebook.com/kei.kita2501)
