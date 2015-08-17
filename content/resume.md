@@ -16,7 +16,16 @@
   - Apr. 2013 - Jan. 2015
       * Software Engineer
       * SUZURI (http://suzuri.jp)
+          - An original goods creation service
           - Write accounting function by credit cards with Ruby (Ruby on Rails)
+      * ColorMeShop (http://shop-pro.jp/)
+          - An online store builder
+          - Write backend API with Ruby (Ruby on Rails)
+          - Write frondend with JavaScript (Angular.js)
 - [LINE](http://linecorp.com/)
   - Jul. 2015 -
       * Software Engineer
+
+---
+
+mailto: kei.kita2501 at gmail.com
