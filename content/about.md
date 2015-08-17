@@ -32,6 +32,8 @@ Also I'm interested in middleware/backend development in Go and Lua.
 
 - GitHub
   * [https://github.com/kitak](https://github.com/kitak)
+- Blog
+  * [http://kitak.hatenablog.jp/](http://kitak.hatenablog.jp/)
 - Speaker Deck
   * [https://speakerdeck.com/kitak](https://speakerdeck.com/kitak)
 - SlideShare
