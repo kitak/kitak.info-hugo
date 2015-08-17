@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kitak.info</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on kitak.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resume/</guid>
+      <description>
+
+&lt;h1 id=&#34;my-resume:c59a67a3c7bc5faa453847420267045e&#34;&gt;My Resume&lt;/h1&gt;
+
+&lt;h2 id=&#34;educations:c59a67a3c7bc5faa453847420267045e&#34;&gt;Educations&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;National Institute of Technology, Ishikawa Colloge
+
+&lt;ul&gt;
+&lt;li&gt;Apr. 2006 - Mar. 2011
+
+&lt;ul&gt;
+&lt;li&gt;Department of Electronics and Information Engineering&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Apr. 2011 - Mar. 2013
+
+&lt;ul&gt;
+&lt;li&gt;Advanced courses. Department of Electronics and Mechanical Engineering&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;jobs:c59a67a3c7bc5faa453847420267045e&#34;&gt;Jobs&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pepabo.com/&#34;&gt;GMO Pepabo&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Apr. 2013 - Jan. 2015
+
+&lt;ul&gt;
+&lt;li&gt;Software Engineer&lt;/li&gt;
+&lt;li&gt;SUZURI (&lt;a href=&#34;http://suzuri.jp&#34;&gt;http://suzuri.jp&lt;/a&gt;)
+
+&lt;ul&gt;
+&lt;li&gt;Write accounting function by credit cards with Ruby (Ruby on Rails)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://linecorp.com/&#34;&gt;LINE&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jul. 2015 -
+
+&lt;ul&gt;
+&lt;li&gt;Software Engineer&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;My name is Keisuke KITA.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
