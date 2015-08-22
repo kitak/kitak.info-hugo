@@ -13,7 +13,7 @@ Also I'm interested in middleware/backend development in Go and Lua.
 
 - serverspec
   * implementation some resources and matchers
-    * [Add `be_listening.with("protocol")` matcher for Port resource.](https://github.com/mizzy/serverspec/pull/200)
+    * [Add be_listening.with("protocol") matcher for Port resource.](https://github.com/mizzy/serverspec/pull/200)
     * [Add "be_monitored_by" matcher for Service resource](https://github.com/mizzy/serverspec/pull/187)
     * [add .under('upstart') to be_running](https://github.com/mizzy/serverspec/pull/186)
     * [YumrepoをResourceTypeに追加する](https://github.com/mizzy/serverspec/pull/162)
