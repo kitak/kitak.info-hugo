@@ -25,6 +25,9 @@
 - [LINE](http://linecorp.com/)
   - Jul. 2015 -
       * Software Engineer
+      * LINE it! (LINEで送る)
+          - Designed high performance thirdparty script
+          - Write JavaScript for share UI
 
 ---
 
