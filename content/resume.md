@@ -28,6 +28,9 @@
       * LINE it! (LINEで送る)
           - Designed high performance thirdparty script
           - Write JavaScript for share UI
+      * LINE LIVE for WEB (https://live.line.me)
+          - A live streaming platform
+          - Write JavaScript for UI
 
 ---
 
