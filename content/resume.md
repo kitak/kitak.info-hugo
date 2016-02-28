@@ -31,6 +31,8 @@
       * LINE LIVE for WEB (https://live.line.me)
           - A live streaming platform
           - Write JavaScript for UI
+      * LINE@ Coupon feature renewal
+          - Write JavaScript for UI
 
 ---
 

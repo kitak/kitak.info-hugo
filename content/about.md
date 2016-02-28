@@ -1,8 +1,8 @@
 # About
 
 My name is **Keisuke KITA**, Software Engineer from Shibuya, Tokyo, Japan.  
-My main focus is web frontends with high-performance and clean code.  
-Also I'm interested in middleware/backend development in Go, Node.js and Lua.
+My main focus is front-end development(Web/JavaScript, Android, Windows) with high-performance and clean code.  
+Also I'm interested in middleware/backend development in Go and Node.js.
 
 ## Software - self-developed products -
 
@@ -16,7 +16,6 @@ Also I'm interested in middleware/backend development in Go, Node.js and Lua.
     * [Add be_listening.with("protocol") matcher for Port resource.](https://github.com/mizzy/serverspec/pull/200)
     * [Add "be_monitored_by" matcher for Service resource](https://github.com/mizzy/serverspec/pull/187)
     * [add .under('upstart') to be_running](https://github.com/mizzy/serverspec/pull/186)
-    * [YumrepoをResourceTypeに追加する](https://github.com/mizzy/serverspec/pull/162)
     * [add socket type, matcher](https://github.com/mizzy/serverspec/pull/156)
   * [Commit History](https://github.com/mizzy/serverspec/commits/master?author=kitak)
 
