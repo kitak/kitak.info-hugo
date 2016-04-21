@@ -33,6 +33,8 @@
           - Write JavaScript for UI
       * LINE@ Coupon feature renewal
           - Write JavaScript for UI
+      * Coupon Book
+          - Write JavaScript for UI
 
 ---
 

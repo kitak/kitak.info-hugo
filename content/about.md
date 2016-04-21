@@ -1,7 +1,7 @@
 # About
 
 My name is **Keisuke KITA**, Software Engineer from Shibuya, Tokyo, Japan.  
-My main focus is front-end development(Web/JavaScript, Android, Windows) with high-performance and clean code.  
+My main focus is front-end development(Web Browser, Android, Windows) with high-performance and clean code.  
 Also I'm interested in middleware/backend development in Go and Node.js.
 
 ## Software - self-developed products -
