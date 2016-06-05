@@ -1,7 +1,7 @@
 # About
 
 My name is **Keisuke KITA**, Software Engineer from Shibuya, Tokyo, Japan.  
-My main focus is front-end development(Web Browser, Android, Windows) with high-performance and clean code.  
+My main focus is client side development(Web Front-end, Android, Windows) with high-performance and clean code.  
 Also I'm interested in middleware/backend development in Go and Node.js.
 
 ## Software - self-developed products -
@@ -20,6 +20,9 @@ Also I'm interested in middleware/backend development in Go and Node.js.
   * [Commit History](https://github.com/mizzy/serverspec/commits/master?author=kitak)
 
 ## Presentations
+
+- Vue.js Tokyo v-meetup="#1"
+  * [ViewModelのダイエット Messengerパターン編](https://speakerdeck.com/kitak/viewmodelfalsedaietuto-messengerpatanbian)
 
 - Ruby Hiroba 2014
   * [Railsのサービスで特別対応をしたときの話](https://speakerdeck.com/kitak/railsfalsesabisudete-bie-dui-ying-wositatokifalsehua)
