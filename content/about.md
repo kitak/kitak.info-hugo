@@ -1,8 +1,8 @@
 # About
 
 My name is **Keisuke KITA**, Software Engineer from Shibuya, Tokyo, Japan.  
-My main focus is client side development(Web Front-end, Android, Windows) with high-performance and clean code.  
-Also I'm interested in middleware/backend development in Go and Node.js.
+My main focus is client side development(Web Front-end, Android) with high-performance and clean code.  
+Also I'm interested in middleware/backend development in Go and Java and Node.js.
 
 ## Software - self-developed products -
 
@@ -11,6 +11,9 @@ Also I'm interested in middleware/backend development in Go and Node.js.
 
 ## Software - contributions -
 
+- Vue.js
+  * Bug reportings
+    * [2.0 Server-side rendering with v-text or v-html doesn't work well'](https://github.com/vuejs/vue/issues/3078)
 - serverspec
   * implementation some resources and matchers
     * [Add be_listening.with("protocol") matcher for Port resource.](https://github.com/mizzy/serverspec/pull/200)
