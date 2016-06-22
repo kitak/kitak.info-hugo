@@ -11,9 +11,14 @@ Also I'm interested in middleware/backend development in Go and Java and Node.js
 
 ## Software - contributions -
 
+- JDK
+  * Bug reportings
+    * [JDK-8160034 : The `this` value in the `with` is broken by the repetition of a function call](http://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8160034)
+
 - Vue.js
   * Bug reportings
     * [2.0 Server-side rendering with v-text or v-html doesn't work well'](https://github.com/vuejs/vue/issues/3078)
+
 - serverspec
   * implementation some resources and matchers
     * [Add be_listening.with("protocol") matcher for Port resource.](https://github.com/mizzy/serverspec/pull/200)
