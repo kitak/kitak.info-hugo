@@ -16,6 +16,9 @@ Also I'm interested in middleware/backend development in Go and Java and Node.js
     * [JDK-8160034 : The `this` value in the `with` is broken by the repetition of a function call](http://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8160034)
 
 - Vue.js
+  * Document translation
+    * [Update ja document](https://github.com/vuejs/vuex/pull/240)
+    * http://vuex.vuejs.org/ja/index.html
   * Bug reportings
     * [2.0 Server-side rendering with v-text or v-html doesn't work well'](https://github.com/vuejs/vue/issues/3078)
 
