@@ -27,14 +27,17 @@
       * Software Engineer
       * LINE it! (LINEで送る)
           - Designed high performance thirdparty script
-          - Write JavaScript for share UI
+          - Write JavaScript for share UI (Vue.js)
       * LINE LIVE for WEB (https://live.line.me)
           - A live streaming platform
-          - Write JavaScript for UI
+          - Write JavaScript for UI (Vue.js)
       * LINE@ Coupon feature renewal
-          - Write JavaScript for UI
+          - Write JavaScript for UI (Angular.js)
       * Coupon Book
-          - Write JavaScript for UI
+          - Write JavaScript for UI (Vue.js)
+      * LINE WEB STORE (https://store.line.me)
+          - Write JavaScript for UI (Vanilla JavaScript)
+          - Optimize page speed
 
 ---
 
