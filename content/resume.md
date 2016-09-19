@@ -14,7 +14,7 @@
 
 - [GMO Pepabo](https://pepabo.com/)
   - Apr. 2013 - Jan. 2015
-      * Software Engineer
+      * Web Application Engineer
       * SUZURI (http://suzuri.jp)
           - An original goods creation service
           - Write accounting function by credit cards with Ruby (Ruby on Rails)
@@ -24,7 +24,7 @@
           - Write frondend with JavaScript (Angular.js)
 - [LINE](http://linecorp.com/)
   - Jul. 2015 -
-      * Software Engineer
+      * Front-End Engineer
       * LINE it! (LINEで送る)
           - Designed high performance thirdparty script
           - Write JavaScript for share UI (Vue.js)

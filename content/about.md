@@ -13,21 +13,21 @@ Also I'm interested in middleware/backend development in Go, Python and Node.js.
 
 - JDK
   * Bug reportings
-    * [JDK-8160034 : The `this` value in the `with` is broken by the repetition of a function call](http://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8160034)
+    - [JDK-8160034 : The `this` value in the `with` is broken by the repetition of a function call](http://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8160034)
 
 - Vue.js
   * Document translation
-    * [Update ja document](https://github.com/vuejs/vuex/pull/240)
-    * http://vuex.vuejs.org/ja/index.html
+    - [Update ja document](https://github.com/vuejs/vuex/pull/240)
+    - http://vuex.vuejs.org/ja/index.html
   * Bug reportings
-    * [2.0 Server-side rendering with v-text or v-html doesn't work well'](https://github.com/vuejs/vue/issues/3078)
+    - [2.0 Server-side rendering with v-text or v-html doesn't work well'](https://github.com/vuejs/vue/issues/3078)
 
 - serverspec
   * implementation some resources and matchers
-    * [Add be_listening.with("protocol") matcher for Port resource.](https://github.com/mizzy/serverspec/pull/200)
-    * [Add "be_monitored_by" matcher for Service resource](https://github.com/mizzy/serverspec/pull/187)
-    * [add .under('upstart') to be_running](https://github.com/mizzy/serverspec/pull/186)
-    * [add socket type, matcher](https://github.com/mizzy/serverspec/pull/156)
+    - [Add be_listening.with("protocol") matcher for Port resource.](https://github.com/mizzy/serverspec/pull/200)
+    - [Add "be_monitored_by" matcher for Service resource](https://github.com/mizzy/serverspec/pull/187)
+    - [add .under('upstart') to be_running](https://github.com/mizzy/serverspec/pull/186)
+    - [add socket type, matcher](https://github.com/mizzy/serverspec/pull/156)
   * [Commit History](https://github.com/mizzy/serverspec/commits/master?author=kitak)
 
 ## Presentations
