@@ -17,8 +17,11 @@ Also I'm interested in middleware/backend development in Go, Python and Node.js.
 
 - Vue.js
   * Document translation
-    - [Update ja document](https://github.com/vuejs/vuex/pull/240)
-    - http://vuex.vuejs.org/ja/index.html
+    - https://github.com/vuejs/vuex/pull/240
+		- https://github.com/vuejs/jp.vuejs.org/pull/156
+		- https://github.com/vuejs/jp.vuejs.org/pull/165
+		- https://github.com/vuejs/jp.vuejs.org/pull/169
+		- https://github.com/vuejs/jp.vuejs.org/pull/182
   * Bug reportings
     - [2.0 Server-side rendering with v-text or v-html doesn't work well'](https://github.com/vuejs/vue/issues/3078)
 
@@ -40,6 +43,11 @@ Also I'm interested in middleware/backend development in Go, Python and Node.js.
 
 - Kanazawa.rb meetup #6
   * [Sqaleにアプリをデプロイしたよー](http://www.slideshare.net/KeisukeKita/sqale)
+
+## Writing Career (in Japanese)
+
+- [gihyo.jp Vue.js入門 ―最速で作るシンプルなWebアプリケーション](http://gihyo.jp/dev/serial/01/vuejs/0002)
+  * 第2回　Vue.js基礎文法最速マスター
 
 ## Others
 
